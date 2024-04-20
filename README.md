@@ -16,4 +16,4 @@ The computer generates a random number between 1 and 99 using the randint() func
 The user inputs their guessed number.
 A while loop is used to implement the program logic.
 The user keeps guessing until they get the correct number.
-Example: If the computer randomly selects 42, the user might guess 25, then 37, and finally 42 """
+Example: If the computer randomly selects 42, the user might guess 25, then 37, and finally 42.
